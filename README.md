@@ -1,0 +1,1 @@
+This activity covers fundamental to advanced database operations from Selecting queries, filtering, sorting, Joins,  expressions, aggregates, table operations like inserting, updating, deleting rows and deleting tables. 
